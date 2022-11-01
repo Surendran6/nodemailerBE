@@ -25,10 +25,9 @@ Request
      "password":"nowsusren96"
 }
 
-response:{
+response:
     "message": "Successful login",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzNjEzZTJhYjZjODJjMmViY2ViNTRlYyIsImlhdCI6MTY2NzMyMTAzNCwiZXhwIjoxNjY3NDA3NDM0fQ.UgB1QmIc-tBw8-mLwtfs18hdtk4VPxx-dYBHrAcd9C8"
-}
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzNjEzZTJhYjZjODJjMmViY2ViNTRlYyIsImlhdCI6MTY2NzMyMTAzNCwiZXhwIjoxNjY3NDA3NDM0fQ.UgB1QmIc-tBw8-mLwtfs18hdtk4VPxx-dYBHrAcd9C8
 -----------------------------------------------------------------------------------------------
 For Forgotpassword
 
