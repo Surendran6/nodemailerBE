@@ -3,7 +3,7 @@ NodeMailer Backend
 For Register
 
 Request
-"method": "POST"
+"method": "POST" /n
 "url":http://localhost:5000/signup
 "body":{
      "username":"surendran",
