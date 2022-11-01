@@ -40,8 +40,8 @@ Request
 "response":{
      "message": "Email Sent! Make sure to check your spam mail and mark not as spam."
 }
-
-For Forgotpassword
+--------------------------------------------------------------------------------------------
+For Mailsend
 
 Request
 "method": "POST"
