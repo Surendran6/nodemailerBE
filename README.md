@@ -52,6 +52,7 @@ Request
 {     
      "email":"surendran5@gmail.com" 
 }
+
 "response":
 {
      "message": "Email Sent! Make sure to check your spam mail and mark not as spam."
@@ -84,6 +85,7 @@ Request
      "ReceiverMailId":"raj@gmail.com",
      "subjLine":"welcome to diwali celebration"
 }
+
 "response":
 {
      "message": "Email Sent! Make sure to check your spam mail and mark not as spam."
